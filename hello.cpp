@@ -3,6 +3,7 @@
 #include "add.h"
 
 int main(){
+  std::cout << "second person message" << std::endl;
   int a, b;
   std::cout << "Please enter the first number:";
   std::cin >> a;
