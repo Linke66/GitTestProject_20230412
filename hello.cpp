@@ -4,6 +4,7 @@
 
 int main(){
   std::cout << "second person message" << std::endl;
+  std::cout << "first person message" << std::endl;
   int a, b;
   std::cout << "Please enter the first number:";
   std::cin >> a;
