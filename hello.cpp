@@ -3,6 +3,7 @@
 #include "add.h"
 
 int main(){
+  std::cout << "##**" << std::endl;
   std::cout << "second person message" << std::endl;
   std::cout << "first person message" << std::endl;
   int a, b;
